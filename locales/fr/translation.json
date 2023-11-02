@@ -1,0 +1,31 @@
+{
+
+
+"home": "Accueil",
+"privacy_policy": "Politique de confidentialité",
+
+
+
+"discover": "Découvrez GentleDrinker",
+"innovation_title": "Innovation de GentleDrinker",
+"innovation_description": "GentleDrinker est bien plus qu'une application de suivi de consommation : c'est un compagnon de soirée intelligent qui s'assure que vous profitez de vos moments conviviaux tout en restant responsable. Grâce à une formule personnalisée qui tient compte de votre âge, taille et poids, GentleDrinker calcule avec précision votre taux d'alcoolémie en fonction des boissons consommées et du temps qui s'est écoulé.",
+"simplicity_title": "Simplicité et Intuitivité",
+"simplicity_description": "L'application est conçue pour être aussi simple à utiliser qu'un verre à la main. Avec une interface claire et une navigation fluide, GentleDrinker vous permet de suivre votre consommation d'alcool sans interrompre vos moments de détente. Un simple ajout de votre boisson et GentleDrinker s'occupe du reste, vous offrant une expérience utilisateur sans tracas.",
+"customization_title": "Fonctionnalités Sur-Mesure",
+"customization_description": "Entrez vos boissons et laissez GentleDrinker estimer votre taux d'alcoolémie actuel. Recevez des alertes claires qui vous indiquent si vous êtes en état de prendre le volant, vous aidant ainsi à prendre des décisions responsables. Soyez prévenu lorsque votre taux d'alcoolémie approche des limites légales ou personnelles avec des notifications bienveillantes. Planifiez à l'avance avec notre système d'alarme innovant qui vous conseille quand arrêter de boire pour retrouver sobriété pour vos activités du lendemain ou pour pouvoir conduire plus tard.",
+"practical_advantages_title": "Avantages Pratiques",
+"practical_advantages_description": "GentleDrinker ne se contente pas de suivre votre consommation, elle vous équipe avec les outils nécessaires pour une consommation consciente et maîtrisée. Que vous souhaitiez garantir votre capacité à conduire après une soirée ou simplement vous lever sans gueule de bois, GentleDrinker travaille en arrière-plan pour vous permettre de profiter de vos soirées en toute sécurité et confort.",
+
+"privacy_policy_title": "Politique de confidentialité de GentleDrinker",
+"privacy_policy_intro": "GentleDrinker s'engage à protéger la vie privée de ses utilisateurs. Nous souhaitons vous fournir des informations claires sur notre politique de confidentialité afin que vous sachiez comment nous traitons vos données.",
+"data_collection_and_use": "Collecte et utilisation des données",
+"data_collection_description": "GentleDrinker ne collecte, ne stocke ni ne partage aucune donnée personnelle des utilisateurs. Nous respectons la vie privée de nos utilisateurs et ne demandons ni n'accédons à aucune information personnelle.",
+"security_title": "Sécurité",
+"security_description": "Même si nous ne collectons pas de données personnelles, nous prenons toutes les mesures nécessaires pour garantir la sécurité de notre application et protéger tous les utilisateurs contre tout accès, modification, divulgation ou destruction non autorisé de données.",
+"policy_changes_title": "Modifications de cette politique",
+"policy_changes_description": "Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Tout changement sera immédiatement publié sur cette page. Nous encourageons les utilisateurs à consulter régulièrement cette page pour être informés des mises à jour.",
+"contact_us_title": "Contactez-nous",
+"contact_us_description": "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, n'hésitez pas à nous contacter."
+
+
+}

@@ -1,0 +1,30 @@
+{
+    
+    
+    "home": "Home",
+    "privacy_policy": "Privacy policy",
+    
+    
+
+    "discover": "Discover GentleDrinker",
+    "innovation_title": "Innovation of GentleDrinker",
+    "innovation_description": "GentleDrinker is more than just a consumption tracking app: it's a smart evening companion that ensures you enjoy your social moments while staying responsible. With a personalized formula that takes into account your age, height, and weight, GentleDrinker accurately calculates your blood alcohol content based on the drinks consumed and the time elapsed.",
+    "simplicity_title": "Simplicity and Intuitiveness",
+    "simplicity_description": "The app is designed to be as easy to use as a glass in your hand. With a clear interface and smooth navigation, GentleDrinker allows you to track your alcohol consumption without interrupting your relaxation moments. Simply add your drink, and GentleDrinker takes care of the rest, offering you a hassle-free user experience.",
+    "customization_title": "Customized Features",
+    "customization_description": "Enter your drinks and let GentleDrinker estimate your current blood alcohol level. Receive clear alerts that indicate whether you are in a condition to drive, thus helping you make responsible decisions. Be warned when your blood alcohol level approaches legal or personal limits with caring notifications. Plan ahead with our innovative alarm system that advises you when to stop drinking to be sober for your activities the next day or to be able to drive later on.",
+    "practical_advantages_title": "Practical Benefits",
+    "practical_advantages_description": "GentleDrinker does more than track your consumption; it equips you with the necessary tools for conscious and controlled drinking. Whether you want to ensure you can drive after an evening out or just wake up without a hangover, GentleDrinker works in the background to allow you to enjoy your evenings safely and comfortably.",
+
+    "privacy_policy_title": "GentleDrinker Privacy Policy",
+    "privacy_policy_intro": "GentleDrinker is committed to protecting the privacy of its users. We aim to provide you with clear information about our privacy policy so you know how we handle your data.",
+    "data_collection_and_use": "Data Collection and Use",
+    "data_collection_description": "GentleDrinker does not collect, store, or share any personal data of users. We respect the privacy of our users and do not request or access any personal information.",
+    "security_title": "Security",
+    "security_description": "Even though we do not collect personal data, we take all necessary measures to ensure the security of our application and protect all users against unauthorized access, alteration, disclosure, or destruction of data.",
+    "policy_changes_title": "Changes to This Policy",
+    "policy_changes_description": "We reserve the right to modify this privacy policy at any time. Any changes will be immediately posted on this page. We encourage users to regularly review this page to be informed of updates.",
+    "contact_us_title": "Contact Us",
+    "contact_us_description": "If you have any questions or concerns regarding this privacy policy, please do not hesitate to contact us."
+
+}
